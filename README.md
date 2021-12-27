@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gplunkett55
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Chemical Engineering
-- 📫 How to reach me Instagram: gavin_plunkett, email: gplunket@uwaterloo.ca
+- 🌱 I’m currently studying Chemical Engineering
+- 📫 How to reach me: Instagram: gavin_plunkett Email: gplunket@uwaterloo.ca
 
 <!---
 gplunkett55/gplunkett55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
