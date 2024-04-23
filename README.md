@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gplunkett55
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, MATLAB
 - 🌱 I’m currently studying Chemical Engineering
 - 📫 How to reach me: Instagram: gavin_plunkett Email: gplunket@uwaterloo.ca
 
